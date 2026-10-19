@@ -1,0 +1,4 @@
+flask>=3.0
+scapy>=2.5
+mac-vendor-lookup>=0.1
+requests>=2.31
